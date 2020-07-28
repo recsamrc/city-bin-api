@@ -1,0 +1,65 @@
+{
+    "users": [
+        {
+            "id": "1",
+            "username": "user1",
+            "email": "user@user.com",
+            "password": "12345678"
+        }
+    ],
+    "areas": [
+        {
+            "id": "1",
+            "name": "Central Phnom Penh",
+            "imageUrl": "https://news.cgtn.com/news/77416a4e3145544d326b544d354d444d3355444f31457a6333566d54/img/37d598e5a04344da81c76621ba273915/37d598e5a04344da81c76621ba273915.jpg",
+            "description": "blah blah blah",
+            "binCount": 10
+        },
+        {
+            "id": "2",
+            "name": "North Phnom Penh",
+            "imageUrl": "https://news.cgtn.com/news/77416a4e3145544d326b544d354d444d3355444f31457a6333566d54/img/37d598e5a04344da81c76621ba273915/37d598e5a04344da81c76621ba273915.jpg",
+            "description": "blah blah blah",
+            "binCount": 15
+        },
+        {
+            "id": "3",
+            "name": "South Phnom Penh",
+            "imageUrl": "https://news.cgtn.com/news/77416a4e3145544d326b544d354d444d3355444f31457a6333566d54/img/37d598e5a04344da81c76621ba273915/37d598e5a04344da81c76621ba273915.jpg",
+            "description": "blah blah blah",
+            "binCount": 20
+        },
+        {
+            "id": "4",
+            "name": "West Phnom Penh",
+            "imageUrl": "https://news.cgtn.com/news/77416a4e3145544d326b544d354d444d3355444f31457a6333566d54/img/37d598e5a04344da81c76621ba273915/37d598e5a04344da81c76621ba273915.jpg",
+            "description": "blah blah blah",
+            "binCount": 23
+        },
+        {
+            "id": "5",
+            "name": "East Phnom Penh",
+            "imageUrl": "https://news.cgtn.com/news/77416a4e3145544d326b544d354d444d3355444f31457a6333566d54/img/37d598e5a04344da81c76621ba273915/37d598e5a04344da81c76621ba273915.jpg",
+            "description": "blah blah blah",
+            "binCount": 24
+        }
+    ],
+    "bins": [
+        {
+            "id": "1",
+            "name": "Bin 0",
+            "description": "bin blah blah",
+            "isCleared": false,
+            "imgUrl": "https://news.cgtn.com/news/77416a4e3145544d326b544d354d444d3355444f31457a6333566d54/img/37d598e5a04344da81c76621ba273915/37d598e5a04344da81c76621ba273915.jpg",
+            "areaId": "1"
+        },
+        {
+            "id": "2",
+            "name": "Bin 1",
+            "description": "bin blah blah",
+            "isCleared": true,
+            "imgUrl": "https://news.cgtn.com/news/77416a4e3145544d326b544d354d444d3355444f31457a6333566d54/img/37d598e5a04344da81c76621ba273915/37d598e5a04344da81c76621ba273915.jpg",
+            "areaId": "2"
+        }
+    ]
+}
