@@ -87,22 +87,6 @@
       "isCleared": true,
       "imgUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTjaiGp8rIjp8aD37KE5-tSHmYdshukKlaohw&usqp=CAU",
       "areaId": "3"
-    },
-    {
-      "id": "7",
-      "name": "Bin 7",
-      "description": "Bin 7 description",
-      "isCleared": true,
-      "imgUrl": "https://images-na.ssl-images-amazon.com/images/I/51XPWUjjSNL._AC_SL1024_.jpg",
-      "areaId": "4"
-    },
-    {
-      "id": "8",
-      "name": "Bin 8",
-      "description": "Bin 8 description",
-      "isCleared": false,
-      "imgUrl": "https://i.pinimg.com/originals/be/99/bf/be99bf9a882697a21a80e7d2f16e9668.jpg",
-      "areaId": "5"
     }
   ],
   "drivers": [
@@ -133,27 +117,6 @@
       "binsCollected": 32,
       "tel": "015732423",
       "profileImgUrl": "https://sniffandwag.com/wp-content/uploads/2020/01/cute-is-not-enough-funny-cats-an-1-277x156.jpg"
-    },
-    {
-      "id": "6",
-      "name": "Driver 6",
-      "binsCollected": 8,
-      "tel": "015732423",
-      "profileImgUrl": "https://scx1.b-cdn.net/csz/news/800/2018/thecatsmeowt.jpg"
-    },
-    {
-      "id": "7",
-      "name": "Driver 7",
-      "binsCollected": 7,
-      "tel": "015732423",
-      "profileImgUrl": "https://cdn.pixabay.com/photo/2019/06/09/12/56/cat-4262034_1280.jpg"
-    },
-    {
-      "id": "8",
-      "name": "Driver 8",
-      "binsCollected": 13,
-      "tel": "015732423",
-      "profileImgUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTcM3WY0UP-ntH7gfn18EFeEijYwpRGViOWEA&usqp=CAU"
     }
   ]
 }
