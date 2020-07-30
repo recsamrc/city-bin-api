@@ -17,7 +17,7 @@
     {
       "id": "2",
       "name": "North Phnom Penh",
-      "imageUrl": "https://images.realestate.com.kh/blog/PCdZAjxzeYkaj4BsYP5yj9XTL7gIixB9JOesJK0JRm4mzywKl7SDl1z563vHhCAjR-IKR-RcVlPTGIVFzpQEqqtb2khFzUPfC-LX7p8vGaFT-5V2a6L3GuIODG1UVnGSbvBgBSKi_TDRTpiY_vXRRv0J_e7QD8ez_MQ6ccrz_LBYaxUK_S99bhqJ.jpeg",
+      "imageUrl": "https://lh4.googleusercontent.com/-35d-ax3bbm4/VJjLaG_n-tI/AAAAAAAAEXI/9Dt0e8Xd1S8/s640/blogger-image-1671804173.jpg",
       "description": "blah blah blah 22222"
     },
     {
@@ -25,18 +25,6 @@
       "name": "South Phnom Penh",
       "imageUrl": "https://cdn1.i-scmp.com/sites/default/files/styles/768x768/public/images/methode/2018/12/03/02644fa4-f480-11e8-bbe8-afaa0960a632_1280x720_205150.JPG?itok=wnQGLe7-",
       "description": "blah blah blah 3"
-    },
-    {
-      "id": "4",
-      "name": "West Phnom Penh",
-      "imageUrl": "https://i.ytimg.com/vi/a2lLF1KY10k/hqdefault.jpg",
-      "description": "blah blah blah 444"
-    },
-    {
-      "id": "5",
-      "name": "East Phnom Penh",
-      "imageUrl": "https://www.pacifichotel.asia/wp-content/uploads/2018/09/Pacific-blog-guide-2.jpg",
-      "description": "blah blah blah 55"
     }
   ],
   "bins": [
@@ -79,14 +67,6 @@
       "isCleared": false,
       "imgUrl": "https://img.grouponcdn.com/deal/ahm66ASfGtYf1mZLYcGt/iA-3888x2333/v1/c700x420.jpg",
       "areaId": "2"
-    },
-    {
-      "id": "6",
-      "name": "Bin 6",
-      "description": "Bin 6 description",
-      "isCleared": true,
-      "imgUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTjaiGp8rIjp8aD37KE5-tSHmYdshukKlaohw&usqp=CAU",
-      "areaId": "3"
     }
   ],
   "drivers": [
