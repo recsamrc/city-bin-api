@@ -161,20 +161,6 @@
       "binsCollected": 13,
       "tel": "015732423",
       "profileImgUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTcM3WY0UP-ntH7gfn18EFeEijYwpRGViOWEA&usqp=CAU"
-    },
-    {
-      "id": "9",
-      "name": "Driver 9",
-      "binsCollected": 3,
-      "tel": "015732423",
-      "profileImgUrl": "https://images.unsplash.com/photo-1570534536531-c3def02ad855?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80"
-    },
-    {
-      "id": "10",
-      "name": "Driver 10",
-      "binsCollected": 41,
-      "tel": "015732423",
-      "profileImgUrl": "https://cms.hostelbookers.com/hbblog/wp-content/uploads/sites/3/2012/02/cat-happy-cat-e1329931204797.jpg"
     }
   ]
 }
